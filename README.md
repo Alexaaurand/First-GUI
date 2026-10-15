@@ -2,6 +2,10 @@
 
 A Java Swing application that helps users make a random choice from a list of options. I built this project while learning Java to practice turning basic programming concepts into an interactive graphical application.
 
+## Screenshot
+
+![Choice Roller Java GUI](images/First-GUI.png)
+
 ## Features
 
 - Add choices to a list
